@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E67D-3BAC
+
+ Directory of C:\Users\13095\Desktop\MyProject
+
+09/28/2020  08:44 PM    <DIR>          .
+09/28/2020  08:44 PM    <DIR>          ..
+09/28/2020  08:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  745,798,803,456 bytes free
